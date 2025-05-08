@@ -89,3 +89,14 @@ name =input("enter you name")
 print("welcome ",name)
 
 val=int(input("enter your number"))
+
+
+# single line comments
+
+"""
+Multi Lines comments
+"""
+
+'''
+Multi Lines comments
+'''
