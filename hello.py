@@ -40,6 +40,7 @@ Relational Operator=(==,!=,>=,<=)
 Assisgnement Operator=(=,!=,+=,*=,**=)
 Logical(not,and,or)
 
+Divisible operator always give floating value like 5/2=2.5 || 4/2=2.0
 ** power opeator
 
 """
