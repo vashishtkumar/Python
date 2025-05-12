@@ -1,0 +1,49 @@
+# TO map with real world scearios we started working on object oriented programming.
+
+# so classes is like blueprint for the objects . it have features and methods.
+
+# There are two types of Attribute 1) class Attribute 2) Object Attribute
+
+# Four Pillars of Oop
+1) Abstraction 2) Encapsulation 3) Inheritence 4) Polymorphism
+
+Abstraction = Hiding the unnecessary part of and showign only those are required. we are not giving how the internall is it working.
+
+Encapsulation = binding all the data and memeber function n a sibngle unit(object)
+
+## del keyword is used to delete object attrbute as well as objects:
+=> for example: 
+       class Student:
+            def __init__(self):
+                name="vashsiht"
+                age="20 Years"
+
+       
+       s1=Student()
+       s1.Student()
+       del s1.age
+       del s2
+
+
+## Acess Modifiers in Python
+
+# private - it is achieved by __(followed by variable name)
+
+- Private attrbutes and methods are meatn to used only within 
+  the class and are not accessible from outside the class.
+
+  for example:
+             class Persons:
+                 __name="anyonyms"
+
+                 def __hello(self):
+                 print("Hello Vashisht")
+
+
+Inheritence : inherting the properties(Data Member And Member Function) of parent class to their child class is called Inheritence
+ 
+ Types of Inheritence:
+
+ 1)Single heritence
+ 2)Multilevel Inheritence
+ 3)Mltiple Inheritence
