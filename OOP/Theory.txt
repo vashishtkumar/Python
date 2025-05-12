@@ -47,3 +47,7 @@ Inheritence : inherting the properties(Data Member And Member Function) of paren
  1)Single heritence
  2)Multilevel Inheritence
  3)Mltiple Inheritence
+
+
+ ## super method: It is an method which is used to access the methods of parent class
+ 
