@@ -60,3 +60,10 @@ classmethod : It is used to change the class value as well
             cls.name=name
 
 PropertyDecorator: @property -> it is used on any method of an class to make that as Property
+
+
+
+## Polymorphism : The ability of function or method to behve differently based upon the objec input
+
+operator overloading: when the same function have different meaning according to context
+we can achieve this by using dunder function
