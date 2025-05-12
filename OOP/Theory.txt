@@ -49,5 +49,14 @@ Inheritence : inherting the properties(Data Member And Member Function) of paren
  3)Mltiple Inheritence
 
 
- ## super method: It is an method which is used to access the methods of parent class
- 
+ ## super method: It is an method which is used to access the methods of parent class.
+                  
+
+    (DECORATOR)
+classmethod : It is used to change the class value as well
+        forExample:
+        @classmethod
+        def changeName(cls,name):
+            cls.name=name
+
+PropertyDecorator: @property -> it is used on any method of an class to make that as Property
